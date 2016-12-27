@@ -1,5 +1,9 @@
 # nlp-watts
-nlp practice with watts lectures
+nlp practice with watts lectures.  The purpose of this project is to answer the following:
+What categories does Watts talk about?
+What are his most frequent words?
+What symbols does Watts use?
+Output a frequency word distribution
 
 
 http://deoxy.org/watts.htm
