@@ -39,7 +39,7 @@ So it looks like I was in the middle of creating a corpus of text.
 For my currently example it looks like my reader needs categories so I started looking at ways to add categories.  How one gets categories seems to be a bit fuzzy.  Some example seem to pre label file categories, like separating some files into negative senitment and others into positive-- which seems to defeat the purpose.  I expect a categorizer to run through my text and output relevant categories based on frequency distribution in the text.  Perhaps this is the wrong idea.  The key problem is how do I add categories to my watt's corpus.
 
 # Notes
-    1.  find . -name "*watts*"
+    1.  find . -name "*watts*" 
 
 # Definitions:
   Frequency Distribution - Referring to the FD of the word versus the text.  It counts observable events such as the appearance of a word in a text
